@@ -12,5 +12,4 @@ public class Ex02 {
 		}
 		System.out.println("다음 문장 실행");
 	}
-
 }
